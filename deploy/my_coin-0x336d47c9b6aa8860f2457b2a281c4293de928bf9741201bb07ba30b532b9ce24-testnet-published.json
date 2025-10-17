@@ -1,7 +1,7 @@
 {
   "my_coin": {
     "fileFormatVersion": 6,
-    "address": "0xdfaf8457ab4789f0e5a3fb5d504a54f195e13edf5968495d4822782c28e167ec",
+    "address": "0x336d47c9b6aa8860f2457b2a281c4293de928bf9741201bb07ba30b532b9ce24",
     "name": "my_coin",
     "friends": [],
     "structs": {
@@ -35,7 +35,7 @@
                 "typeArguments": [
                   {
                     "Struct": {
-                      "address": "0xdfaf8457ab4789f0e5a3fb5d504a54f195e13edf5968495d4822782c28e167ec",
+                      "address": "0x336d47c9b6aa8860f2457b2a281c4293de928bf9741201bb07ba30b532b9ce24",
                       "module": "my_coin",
                       "name": "MY_COIN",
                       "typeArguments": []
